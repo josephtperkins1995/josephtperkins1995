@@ -10,7 +10,7 @@ Build a safe, isolated environment to practice cybersecurity skills particularly
 - Host-level forensics  
 - Threat detection and containment
 
-### Tools Used
+### Tools that were used
 - Kali Linux (Attacker Machine)
 - Splunk (SIEM)
 - Virtual Box (Hypervisor)
