@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Home Lab</b>
-  - [[Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)](https://github.com/josephtperkins1995/homelabdetection/blob/main/README.md)
+  - (https://github.com/josephtperkins1995/homelabdetection/blob/main/README.md)
 
 
 <h2> Cybersecurity Certifications:</h2>
