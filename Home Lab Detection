@@ -15,7 +15,16 @@ Build a safe, isolated environment to practice cybersecurity skills particularly
 - Splunk (SIEM)
 - Virtual Box (Hypervisor)
 
-## Steps
+## Screenshots
+
+1. Configured the Windows VM and the Linux VM to be on a secure internal network
+Windows VM
+
+
+
+
+
+
 drag & drop screenshots here or use imgur and reference them using imgsrc
 
 Every screenshot should have some text explaining what the screenshot is about.
