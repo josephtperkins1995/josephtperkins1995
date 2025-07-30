@@ -2,7 +2,7 @@
 
 <h2> Cybersecurity Projects:</h2>
 
-- <b>Home Lab</b>
+- <b>Home Lab Detection</b>
   - (https://github.com/josephtperkins1995/homelabdetection/blob/main/README.md)
 
 
